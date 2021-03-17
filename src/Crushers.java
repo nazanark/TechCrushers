@@ -7,7 +7,7 @@ public class Crushers {
 
         System.out.println("Joe");
 
-        System.out.println("Bota");
+
         System.out.println("Botagoz");
 
         System.out.println("Cholpon");
