@@ -4,5 +4,6 @@ public class Crushers {
         System.out.println("Botagoz");
 
         System.out.println("Cholpon");
+        System.out.println("larissa");
     }
 }
